@@ -33,25 +33,23 @@ The dashboard aims to deliver an interactive, data-driven solution to track and 
 
 ##  3. Key Visuals
 
-###  KPI Cards
-- **Presence**: `91.83%`
-- **Work From Home**: `10.00%`
-- **Sick Leave**: `1.10%`
+### 1. **Presence % by Date** *(Area Chart)*
+- **Purpose**: Track daily employee presence rate across April to June 2022  
+- **Key Insights**: Shows stable attendance with occasional dips  
+- **Business Value**: Helps determine high-occupancy days, useful for planning meetings or events  
+- **Notable Finding**: Average Presence % is **91.83%**, peaking above **97%** on some days  
 
-###  Time-Series Line Charts
-- **Presence % by Date**: Visualizes in-office attendance over time (April–June 2022)
-- **WFH % by Date**: Highlights WFH behavior and spikes
-- **SL % by Date**: Tracks fluctuations in sick leave
+### 2. **WFH % by Date** *(Area Chart)*
+- **Purpose**: Analyze daily Work From Home usage patterns  
+- **Key Insights**: Friday shows consistently high WFH usage  
+- **Business Value**: Supports hybrid work planning and remote policy decisions  
+- **Notable Finding**: Highest WFH observed on **06 May 2022** at **23.44%**, average WFH on **Fridays** is **13.01%**
 
-###  Day-of-Week Breakdown
-Helps uncover trends like:
-- **Highest WFH**: Fridays (`13.01%`)
-- **Highest SL**: Mondays (`1.62%`)
-- **Highest Presence**: Mondays (`93.21%`) and Wednesdays (`92.11%`)
-
-###  Employee-wise Table
-- Drill down into individual records
-- Understand specific employee behavior and anomalies
+### 3. **Sick Leave % by Date** *(Area Chart)*
+- **Purpose**: Monitor fluctuations in Sick Leave usage  
+- **Key Insights**: Sudden spikes may indicate seasonal illness or health issues  
+- **Business Value**: Allows early health-related interventions and policy tweaks  
+- **Notable Finding**: Sick Leave % peaked at **5.42%** on **30 May 2022**, with Mondays having the highest average SL at **1.62%**
 
 ---
 
