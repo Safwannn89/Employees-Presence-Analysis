@@ -33,23 +33,29 @@ The dashboard aims to deliver an interactive, data-driven solution to track and 
 
 ##  3. Key Visuals
 
-### 1. **Presence % by Date** *(Area Chart)*
+### 1. **Visual 1 : Presence % by Date** *(Area Chart)*
 - **Purpose**: Track daily employee presence rate across April to June 2022  
 - **Key Insights**: Shows stable attendance with occasional dips  
 - **Business Value**: Helps determine high-occupancy days, useful for planning meetings or events  
-- **Notable Finding**: Average Presence % is **91.83%**, peaking above **97%** on some days  
+- **Notable Finding**: Average Presence % is **91.83%**, peaking above **97%** on some days
 
-### 2. **WFH % by Date** *(Area Chart)*
+  ![Visual1](./https://github.com/Safwannn89/Employees-Presence-Analysis/blob/main/Visual_1%20Presence%20%25%20by%20Date.png)
+
+### 2. **Visual 2 : WFH % by Date** *(Area Chart)*
 - **Purpose**: Analyze daily Work From Home usage patterns  
 - **Key Insights**: Friday shows consistently high WFH usage  
 - **Business Value**: Supports hybrid work planning and remote policy decisions  
 - **Notable Finding**: Highest WFH observed on **06 May 2022** at **23.44%**, average WFH on **Fridays** is **13.01%**
 
-### 3. **Sick Leave % by Date** *(Area Chart)*
+  ![Visual2](./https://github.com/Safwannn89/Employees-Presence-Analysis/blob/main/Visual_2%20WFH%20%25%20by%20Date.png)
+
+### 3. **Visual 3 : Sick Leave % by Date** *(Area Chart)*
 - **Purpose**: Monitor fluctuations in Sick Leave usage  
 - **Key Insights**: Sudden spikes may indicate seasonal illness or health issues  
 - **Business Value**: Allows early health-related interventions and policy tweaks  
 - **Notable Finding**: Sick Leave % peaked at **5.42%** on **30 May 2022**, with Mondays having the highest average SL at **1.62%**
+
+  ![Visual3](./https://github.com/Safwannn89/Employees-Presence-Analysis/blob/main/Visual_3%20SL%20%25%20by%20Date.png)
 
 ---
 
@@ -90,9 +96,9 @@ The dashboard aims to deliver an interactive, data-driven solution to track and 
 | Presence %         | 91.83%     |
 | Work From Home %   | 10.00%     |
 | Sick Leave %       | 1.10%      |
-| Highest WFH Day    | Friday     |
-| Highest SL Day     | Monday     |
-| Best Team Day      | Monday, Wednesday |
+| Highest Presence Day| Monday     |
+| Highest WFH Day     | Friday     |
+| Highest SL Day     |  Monday     |
 
 
 
